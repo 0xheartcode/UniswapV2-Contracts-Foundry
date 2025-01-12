@@ -1,0 +1,2 @@
+1. [] change scripts to adapt the Uniswapv2Library hex for the INIT_HASH
+2. [] update the repo to feature the Mutlicall.sol that will be needed for the frontend
